@@ -4,7 +4,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-kumar-939a42160) 
-[![Website](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://rrobin32.github.io/RakeshKumar/) 
 [![Website](https://img.shields.io/website?url=https://rrobin32.github.io/RakeshKumar)](https://rrobin32.github.io/RakeshKumar)
 
 
